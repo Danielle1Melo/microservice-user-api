@@ -22,9 +22,16 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Descrição
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Este repositório contém a implementação de um microserviço para gerenciamento de usuários, construído com NestJS. A aplicação foi desenvolvida com suporte ao Railway, um ambiente de desenvolvimento na nuvem, para hospedagem e gerenciamento da infraestrutura.
+
+## Funcionalidades
+- Registro e autenticação de usuários.
+- Atualização de dados de perfil.
+- Exclusão de contas de usuários.
+- Busca e listagem de usuários.
+
 
 ## Project setup
 
